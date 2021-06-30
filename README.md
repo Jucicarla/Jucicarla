@@ -1,5 +1,5 @@
-### Hi there 👋
-Hi! I'm Jucicarla, I'm from Brazil
+### Hi 👋
+I'm Jucicarla, I'm from Brazil
 <!--
 **Jucicarla/Jucicarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
