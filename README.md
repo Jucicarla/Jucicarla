@@ -1,8 +1,11 @@
 ### Hi 👋
 
 I'm Jucicarla, I'm from Brazil
-- 🌱 Estudando o universo da ciência de dados e Aprendizado de máquina
-- - 😄 Pronouns: Ela/dela
+About Me
+
+- 😄 Pronouns: Ela/dela
+- 🎓 B.S. in Computer Science 
+- 🌱 Estudando o universo da Ciência de dados e Aprendizado de máquina
 
 <div align="center">
   <a href="https://github.com/jucicarla">
