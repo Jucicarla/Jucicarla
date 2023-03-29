@@ -4,7 +4,7 @@ About Me
 
 - 😄 Pronouns: Ela/dela
 - 🎓 B.S. in Computer Science 
-- 🌱 Estudando o universo da Ciência de dados e Aprendizado de máquina
+- 🌱 Estudando o universo da Ciência de dados, Aprendizado de máquina e Teste de Software
 - 💻 #python
 - ❤ Inteligência artificial
  
