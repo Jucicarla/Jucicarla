@@ -6,8 +6,8 @@ About Me
 - 🎓 B.S. in Computer Science
 - 🔭 I’m currently working on QA Analyst 
 - 🌱 Studying the universe of Data Science, Machine Learning and Software Testing
-- 💻 #python
-- ❤ Inteligência artificial
+- 💻 Python, Java
+- ❤ Artificial intelligence
  
 Áreas de Interesse:
 
