@@ -5,15 +5,15 @@ About Me
 - 😄 Pronouns: Ela/dela
 - 🎓 B.S. in Computer Science
 - 🔭 I’m currently working on QA Analyst 
-- 🌱 Estudando o universo da Ciência de dados, Aprendizado de máquina e Teste de Software
+- 🌱 Studying the universe of Data Science, Machine Learning and Software Testing
 - 💻 #python
 - ❤ Inteligência artificial
  
 Áreas de Interesse:
 
+   * Qualidade de Software
    * Machine Learning
    * Ciência dos Dados
-   * Qualidade de Software
    * Python
 
 <div align="center">
