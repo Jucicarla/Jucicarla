@@ -3,7 +3,8 @@
 About Me
 
 - 😄 Pronouns: Ela/dela
-- 🎓 B.S. in Computer Science 
+- 🎓 B.S. in Computer Science
+- 🔭 I’m currently working on QA Analyst 
 - 🌱 Estudando o universo da Ciência de dados, Aprendizado de máquina e Teste de Software
 - 💻 #python
 - ❤ Inteligência artificial
